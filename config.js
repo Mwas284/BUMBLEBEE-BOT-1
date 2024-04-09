@@ -17,7 +17,7 @@ global.owner = [
 global.suittag = ['254106078230'];
 global.prems = ['254106078230'];
 
-global.packname = '𒁂⃝ᰲmwas©_🇨🇺⃝𝐌𝚯𝐃͢𝐙™ ͟͞';
+global.packname = '𒁂⃝ᰲmwas© ͟͞';
 global.author = '★𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓★';
 global.wm = '★𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓★';
 global.igfg = '★𝐁𝐔𝐌𝐁𝐋𝐄𝐁𝐄𝐄🐝𝐁𝐎𝐓★';
